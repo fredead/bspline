@@ -1,0 +1,23 @@
+
+
+ This is a BSpline program written for some GFX project in GTK
+
+ GTK has advanced quite considerably since writing this code
+ so I dont really know whether it still compiles ??
+
+ The makefile might need to be tweaked depending where your
+ GTK libraries are held.
+
+ The fonts section are not done through GTK due to a time
+ constriant and diffculties with GTK this should be 
+ changes at some time.
+
+
+ Im simon loader (simon@surf.org.uK)
+ If you like it give me some bps.
+ (If you improve it (not hard) tell me and Ill junk my version).
+
+
+
+
+
